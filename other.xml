@@ -1,0 +1,91 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="6.9.4" last-modified="1483621230000" />
+    </local-interpreter>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://106.14.35.141" />
+        <option value="https://192.168.3.160/svn/ensemble" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://106.14.35.141" />
+        <option value="https://192.168.3.160/svn/ensemble" />
+        <option value="https://192.168.3.160/svn/ensemble/fudanpage/fdek" />
+        <option value="https://192.168.3.160/svn/ensemble/fudanpage/fdek/FDEK/trunk" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\ProgramDev\TortoiseSVN\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn://101.132.134.52/InfoManage">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://101.132.134.52/InfoManage/.classpath">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage\.classpath" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://101.132.134.52/InfoManage/.project">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage\.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://101.132.134.52/InfoManage/.settings">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage\.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://101.132.134.52/InfoManage/WebRoot">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage\WebRoot" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://101.132.134.52/InfoManage/src">
+          <value>
+            <set>
+              <option value="D:\Workspaces\IdeaProjects\InfoManage\src" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
