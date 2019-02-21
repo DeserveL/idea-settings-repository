@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Summary Medical Record" />
+      <item value="to String" />
+      <item value="new" />
+      <item value="agreed" />
+      <item value="applicable" />
+      <item value="distributed" />
       <item value="Creates a {@link Template} that only contains a single block of static text, no dynamic content." />
       <item value="The system-dependent default name-separator character, represented as a * string for convenience. This string contains a single character, namely" />
       <item value="Broadcast" />
@@ -21,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
