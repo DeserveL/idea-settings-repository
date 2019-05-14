@@ -6,5 +6,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="compiler.document.save.trigger.delay" value="300" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
