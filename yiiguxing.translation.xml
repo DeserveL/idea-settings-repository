@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster" />
       <item value="the minutes to subtract, may be negative" />
       <item value="total" />
       <item value="verification" />
