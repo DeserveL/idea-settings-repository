@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="published" />
+      <item value="Stores a new version of the patient in memory so that it can be retrieved later" />
+      <item value="Constructor, which pre-populates the provider with one resource instance" />
+      <item value="deque" />
       <item value="Allergy Intolerance" />
       <item value="Metadata" />
       <item value="Method uses the wrong Id datatype (IdDt / IdType) for the given context FHIR version" />
@@ -41,9 +45,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
