@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a schema name pattern; must match the schema name * as it is stored in the database; &quot;&quot; retrieves those without a schema; * &lt;code&gt;null&lt;/code&gt; means that the schema name should not be used to narrow * the search" />
       <item value="is Daemon" />
       <item value="extract Data" />
       <item value="my Unqualified Version Id" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="1" />
