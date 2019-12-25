@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discription" />
+      <item value="doseage" />
       <item value="solid" />
       <item value="deal" />
       <item value="deal Date Format" />
@@ -52,9 +54,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
