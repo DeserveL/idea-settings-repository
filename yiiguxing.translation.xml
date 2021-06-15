@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="A Promise for the completion of which ever callback is executed" />
+      <item value="Promise" />
+      <item value="Medical Insurance" />
+      <item value="diagnosis" />
+      <item value="discription" />
+      <item value="doseage" />
+      <item value="solid" />
+      <item value="deal" />
+      <item value="deal Date Format" />
+      <item value="a schema name pattern; must match the schema name * as it is stored in the database; &quot;&quot; retrieves those without a schema; * &lt;code&gt;null&lt;/code&gt; means that the schema name should not be used to narrow * the search" />
+      <item value="is Daemon" />
+      <item value="extract Data" />
+      <item value="my Unqualified Version Id" />
+      <item value="published" />
+      <item value="Stores a new version of the patient in memory so that it can be retrieved later" />
+      <item value="Constructor, which pre-populates the provider with one resource instance" />
+      <item value="deque" />
+      <item value="Allergy Intolerance" />
+      <item value="Metadata" />
+      <item value="Method uses the wrong Id datatype (IdDt / IdType) for the given context FHIR version" />
+      <item value="Identifier" />
+      <item value="on Complete" />
+      <item value="on Abort" />
+      <item value="cluster" />
+      <item value="the minutes to subtract, may be negative" />
+      <item value="total" />
+      <item value="verification" />
+      <item value="get Handover Record Obj" />
+      <item value="test Handover Record" />
+      <item value="is Legal User" />
+      <item value="Legal" />
+      <item value="Summary Medical Record" />
+      <item value="to String" />
+      <item value="new" />
+      <item value="agreed" />
+      <item value="applicable" />
+      <item value="distributed" />
+      <item value="Creates a {@link Template} that only contains a single block of static text, no dynamic content." />
+      <item value="The system-dependent default name-separator character, represented as a * string for convenience. This string contains a single character, namely" />
+      <item value="Broadcast" />
+      <item value="enable Simple Broker" />
+      <item value="set Application Destination Prefixes" />
+      <item value="やめで" />
+      <item value="Mon Sep 03 11:51:46 CST 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
+      <item value="always Respect Stubs" />
+      <item value="stub" />
+      <item value="gap" />
+      <item value="corner Radius" />
+      <item value="We recommend switching to our new User Setup distribution of Code for Windows! Click [here](https://aka.ms/vscode-win32-user-setup) to learn more." />
+      <item value="extract" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
+        <entry key="FRENCH" value="2" />
+        <entry key="LATIN" value="1" />
+        <entry key="JAPANESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
