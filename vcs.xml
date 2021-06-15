@@ -118,9 +118,17 @@
           <option name="url" value="http://gooditop.wicp.net:58172" />
           <option name="userName" value="liuchong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.3.157:7002/gtrj/deviceWeChatPage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.3.157:7002" />
+          <option name="userName" value="liuchong" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workspaces\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\Workspaces\gutai" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
