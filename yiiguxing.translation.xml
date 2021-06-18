@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取token信息 SysUserTokenEntity sysUserTokenEntity = sysUserTokenDao.selectById(userInfo.getUserId()); wxUserVo.setToken(sysUserTokenEntity.getToken()); 获取系统用户信息 SysUserEntity sysUserEntity = sysUserDao.querySysUserByUserId(userInfo.getUserId()); wxUserVo.setSysUserEntity(sysUserEntity);" />
       <item value="A Promise for the completion of which ever callback is executed" />
       <item value="Promise" />
       <item value="Medical Insurance" />
@@ -50,19 +51,18 @@
       <item value="gap" />
       <item value="corner Radius" />
       <item value="We recommend switching to our new User Setup distribution of Code for Windows! Click [here](https://aka.ms/vscode-win32-user-setup) to learn more." />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1624006613757" />
   </component>
 </application>
